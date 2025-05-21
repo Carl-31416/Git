@@ -1,0 +1,4 @@
+git init
+git status
+pwd
+      git add prueba.txt
